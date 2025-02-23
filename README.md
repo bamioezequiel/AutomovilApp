@@ -14,7 +14,6 @@ Este proyecto es una aplicación de escritorio desarrollada en **Java** con **JP
 - **Java** (JDK 8+)
 - **JPA** con EclipseLink
 - **MySQL** como base de datos
-- **Swing** para la interfaz gráfica
 
 ## 📂 Estructura del Proyecto
 
@@ -61,6 +60,8 @@ Este proyecto utiliza MySQL como base de datos. Asegúrate de que tienes un serv
 3. **Ejecutar la aplicación**
    - Importar el proyecto en **NetBeans** o cualquier otro IDE compatible con Java.
    - Compilar y ejecutar la clase `Main.java`.
+
+[![Ver en Vimeo](https://img.shields.io/badge/Ver%20en-Vimeo-blue?style=for-the-badge&logo=vimeo)](https://vimeo.com/1059338888/e4aae87454)
 
 ## 📜 Licencia
 
